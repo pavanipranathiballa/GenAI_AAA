@@ -1,0 +1,10 @@
+groq #access openshource LLMs
+SpeechRecognition #speech to text
+pyttsx3 #python text to speech
+pyaudio
+python-dotenv
+streamlit
+
+#py -3.13 -m venv venv
+#.\venv\Scripts\Activate.ps1
+#streamlit run main.py   
