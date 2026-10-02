@@ -1,7 +1,7 @@
 groq #access openshource LLMs
-SpeechRecognition #speech to text
-pyttsx3 #python text to speech
-pyaudio
+#SpeechRecognition #speech to text
+#pyttsx3 #python text to speech
+#pyaudio
 python-dotenv
 streamlit
 
